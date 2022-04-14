@@ -1,0 +1,1 @@
+![Satya Wikananda's card name](https://cardivo.vercel.app/api?name=Dewa%20Putu%20Wahyu%20Adi%20Putra&description=20Y&image=https://instagram.fdps5-1.fna.fbcdn.net/v/t51.2885-19/273879253_954027791907970_5554163515733118783_n.jpg&backgroundColor=%23ecf0f1&instagram=ip.restu&github=restuindrawan&twitter=restu_indrawan&pattern=fourPointStars&colorPattern=%23eaeaea)
