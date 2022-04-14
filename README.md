@@ -1,1 +1,1 @@
-![DewaWahyu's card name](https://cardivo.vercel.app/api?name=Dewa%20Putu%20Wahyu&description=20Y&image=https://avatars.githubusercontent.com/u/49558018&backgroundColor=%23ecf0f1&instagram=ip.restu&github=restuindrawan&twitter=restu_indrawan&pattern=fourPointStars&colorPattern=%23eaeaea)
+![DewaWahyu's card name](https://cardivo.vercel.app/api?name=Dewa%20Putu%20Wahyu&description=20Y&image=https://avatars.githubusercontent.com/u/49558018&backgroundColor=%23ecf0f1&instagram=dewawhyu&github=dewawhyu&pattern=fourPointStars&colorPattern=%23eaeaea)
